@@ -1,6 +1,6 @@
 # Method & ES6+ Reference
 
-A reference sheet of some of the most essential JavaScript methods for writing algorithms.
+A reference sheet of some of the most essential JavaScript methods and ES6 features for writing algorithms.
 
 Content adapted from [MDN](https://developer.mozilla.org).
 
